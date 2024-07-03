@@ -1,0 +1,18 @@
+{
+  "name": "learing-npm",
+  "version": "1.0.0",
+  "description": "i m learing about NPM",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sakshi",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0",
+    "superheros": "^1.0.0"
+  }
+}
